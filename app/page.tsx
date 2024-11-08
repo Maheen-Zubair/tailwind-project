@@ -1,4 +1,3 @@
-
 import Image from "next/image";
 import image from "../public/female__employee__staff__user__avatar-512.png";
 import Header from "../app/components/header";
